@@ -2,37 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godlucas.club/comments/</loc>
-    
-    <lastmod>2021-05-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://godlucas.club/tags/</loc>
-    
-    <lastmod>2021-04-28</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://godlucas.club/manifest.json</loc>
     
-    <lastmod>2021-04-28</lastmod>
+    <lastmod>2021-05-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godlucas.club/link/</loc>
+    <loc>https://godlucas.club/comments/</loc>
     
-    <lastmod>2021-04-28</lastmod>
+    <lastmod>2021-05-10</lastmod>
     
   </url>
   
   <url>
     <loc>https://godlucas.club/categories/</loc>
     
-    <lastmod>2021-04-28</lastmod>
+    <lastmod>2021-05-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godlucas.club/link/</loc>
+    
+    <lastmod>2021-05-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godlucas.club/tags/</loc>
+    
+    <lastmod>2021-05-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godlucas.club/2021/05/08/start/</loc>
+    
+    <lastmod>2021-05-10</lastmod>
     
   </url>
   
@@ -53,7 +60,7 @@
 
   <url>
     <loc>https://godlucas.club/</loc>
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,14 +68,14 @@
   
   <url>
     <loc>https://godlucas.club/tags/%F0%9F%93%81Hexo/</loc>
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://godlucas.club/tags/%F0%9F%A6%8BButterfly/</loc>
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +84,7 @@
   
   <url>
     <loc>https://godlucas.club/categories/%F0%9F%8D%A1Akilar%E3%81%AE%E7%B3%96%E8%91%AB%E8%8A%A6/</loc>
-    <lastmod>2021-05-08</lastmod>
+    <lastmod>2021-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
