@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godlucas.club/2021/05/10/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
-    
-    <lastmod>2021-05-11</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://godlucas.club/manifest.json</loc>
     
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://godlucas.club/categories/</loc>
     
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://godlucas.club/comments/</loc>
     
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://godlucas.club/link/</loc>
     
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://godlucas.club/tags/</loc>
     
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godlucas.club/2021/05/10/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/</loc>
+    
+    <lastmod>2021-05-17</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://godlucas.club/</loc>
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,14 +54,14 @@
   
   <url>
     <loc>https://godlucas.club/tags/%F0%9F%93%81Python/</loc>
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://godlucas.club/tags/%F0%9F%A6%8B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +70,7 @@
   
   <url>
     <loc>https://godlucas.club/categories/%F0%9F%8D%A1godlucas/</loc>
-    <lastmod>2021-05-11</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
