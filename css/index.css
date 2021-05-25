@@ -11629,25 +11629,13 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-0.png');
+  background: url('https://www.godlucas.club/img/cover1.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-1.png');
+  background: url('https://www.godlucas.club/img/cover2.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-10.png');
-}
-li.categoryBar-list-item:nth-child(4) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-11.png');
-}
-li.categoryBar-list-item:nth-child(5) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-12.png');
-}
-li.categoryBar-list-item:nth-child(6) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-13.png');
-}
-li.categoryBar-list-item:nth-child(7) {
-  background: url('https://godlucas-1304275877.cos.ap-nanjing.myqcloud.com/%E7%B4%85%E8%8C%B6%E3%81%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E7%89%B9%E8%A3%BD%E3%82%B1%E3%83%BC%E3%82%AD%E3%81%A8Twitter%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A7%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99-83708256-2.png');
+  background: url('https://www.godlucas.club/img/cover3.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: 'python学习交流' !important;
