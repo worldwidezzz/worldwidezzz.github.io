@@ -11629,13 +11629,16 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://www.godlucas.club/img/cover1.png');
+  background: url('https://cdn.jsdelivr.net/gh/worldwidezzz/pic_blog@master/img/cover1.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://www.godlucas.club/img/cover2.png');
+  background: url('https://cdn.jsdelivr.net/gh/worldwidezzz/pic_blog@master/img/cover2.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://www.godlucas.club/img/cover3.png');
+  background: url('https://cdn.jsdelivr.net/gh/worldwidezzz/pic_blog@master/img/cover3.png');
+}
+li.categoryBar-list-item:nth-child(4) {
+  background: url('https://cdn.jsdelivr.net/gh/worldwidezzz/pic_blog@master/img/cover4.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: 'python学习交流' !important;
